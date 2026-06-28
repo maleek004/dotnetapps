@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\bin\Debug\net10.0\GPAapp.exe
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\bin\Debug\net10.0\GPAapp.deps.json
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\bin\Debug\net10.0\GPAapp.runtimeconfig.json
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\bin\Debug\net10.0\GPAapp.dll
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\bin\Debug\net10.0\GPAapp.pdb
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\GPAapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\GPAapp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\GPAapp.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\GPAapp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\GPAapp.dll
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\refint\GPAapp.dll
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\GPAapp.pdb
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\GPAapp.genruntimeconfig.cache
+C:\Users\USER\Desktop\dotnetapps\StudentGPAApp\GPAapp\obj\Debug\net10.0\ref\GPAapp.dll

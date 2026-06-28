@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "studentGradingAPp", "studentGradingAPp", "{A5C3CC6A-BACF-5BBC-2956-91FC38124C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gradingApp", "studentGradingAPp\gradingApp\gradingApp.csproj", "{1018288A-9A04-44D3-8C98-61C59B2152BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StudentGPAApp", "StudentGPAApp", "{368D195A-8868-4B3A-352F-2FA891EDF899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPAapp", "StudentGPAApp\GPAapp\GPAapp.csproj", "{8D54C17C-B379-4223-A4F6-F95CDDF18136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Debug|x64.Build.0 = Debug|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Debug|x86.Build.0 = Debug|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Release|x64.Build.0 = Release|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{1018288A-9A04-44D3-8C98-61C59B2152BA}.Release|x86.Build.0 = Release|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Debug|x64.Build.0 = Debug|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Debug|x86.Build.0 = Debug|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Release|x64.ActiveCfg = Release|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Release|x64.Build.0 = Release|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Release|x86.ActiveCfg = Release|Any CPU
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1018288A-9A04-44D3-8C98-61C59B2152BA} = {A5C3CC6A-BACF-5BBC-2956-91FC38124C64}
+		{8D54C17C-B379-4223-A4F6-F95CDDF18136} = {368D195A-8868-4B3A-352F-2FA891EDF899}
+	EndGlobalSection
+EndGlobal

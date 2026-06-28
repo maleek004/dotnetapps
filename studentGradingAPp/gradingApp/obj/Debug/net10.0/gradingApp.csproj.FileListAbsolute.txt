@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\bin\Debug\net10.0\gradingApp.exe
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\bin\Debug\net10.0\gradingApp.deps.json
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\bin\Debug\net10.0\gradingApp.runtimeconfig.json
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\bin\Debug\net10.0\gradingApp.dll
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\bin\Debug\net10.0\gradingApp.pdb
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\gradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\gradingApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\gradingApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\gradingApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\gradingApp.dll
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\refint\gradingApp.dll
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\gradingApp.pdb
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\gradingApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\dotnetapps\studentGradingAPp\gradingApp\obj\Debug\net10.0\ref\gradingApp.dll

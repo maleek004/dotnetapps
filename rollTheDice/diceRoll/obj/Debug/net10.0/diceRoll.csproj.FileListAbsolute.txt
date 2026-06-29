@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.sourcelink.json
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\bin\Debug\net10.0\diceRoll.exe
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\bin\Debug\net10.0\diceRoll.deps.json
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\bin\Debug\net10.0\diceRoll.runtimeconfig.json
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\bin\Debug\net10.0\diceRoll.dll
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\bin\Debug\net10.0\diceRoll.pdb
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.dll
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\refint\diceRoll.dll
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.pdb
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\diceRoll.genruntimeconfig.cache
+C:\Users\USER\Desktop\dotnetapps\rollTheDice\diceRoll\obj\Debug\net10.0\ref\diceRoll.dll

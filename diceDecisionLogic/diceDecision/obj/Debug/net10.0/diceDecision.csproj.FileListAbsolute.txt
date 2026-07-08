@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\bin\Debug\net10.0\diceDecision.exe
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\bin\Debug\net10.0\diceDecision.deps.json
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\bin\Debug\net10.0\diceDecision.runtimeconfig.json
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\bin\Debug\net10.0\diceDecision.dll
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\bin\Debug\net10.0\diceDecision.pdb
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.AssemblyInfo.cs
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.sourcelink.json
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.dll
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\refint\diceDecision.dll
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.pdb
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\diceDecision.genruntimeconfig.cache
+C:\Users\USER\Desktop\dotnetapps\diceDecisionLogic\diceDecision\obj\Debug\net10.0\ref\diceDecision.dll
